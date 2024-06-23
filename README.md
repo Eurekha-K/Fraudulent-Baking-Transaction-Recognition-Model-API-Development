@@ -9,7 +9,8 @@ This project investigates fraudulent banking operations using machine learning a
 
 Credit Card transactions dataset (details anonymized due to security concerns)
 Data is already standardized.
-Methodology:
+
+# Steps Followed:
 
 # Feature Engineering:
 

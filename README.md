@@ -3,7 +3,7 @@ Classifying the Fradulent and Non-Fradulent transactions using  Classification A
 
 
 Fraudulent Banking Operations Recognition - Machine Learning Model
-This project investigates fraudulent banking operations using machine learning algorithms. It references the published journal "Developing AI-based Fraud Detection Systems for Banking and Finance" ([reference link]).
+This project investigates fraudulent banking operations using machine learning algorithms. It references the published journal "Developing AI-based Fraud Detection Systems for Banking and Finance" 
 
 # Dataset:
 

@@ -49,9 +49,9 @@ Machine learning libraries (LogisticRegression, DecisionTreeClassifier, RandomFo
 
 app = Flask(__name__): Creates a Flask application instance named app.
 algorithms: A dictionary that stores pre-trained machine learning models.
-# 3. Training Function (Optional):
+# 3. Training Function :
 
-train_models(X_train, y_train): This function is commented out but could be used to retrain the models if needed. It iterates through the algorithms dictionary and calls the fit() method on each model to train it on the provided training data (X_train and y_train).
+train_models(X_train, y_train): It iterates through the algorithms dictionary and calls the fit() method on each model to train it on the provided training data (X_train and y_train).
 # 4. Routes:
 
 # @app.route('/'): This decorator defines a route for the root URL (/).
